@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A1",NAME="audio_3",DEFAULT=YES,URI="https://ikomg3.s.llnwi.net/test123/stream_kaz.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=2432399,RESOLUTION=1920x1080,CODECS="avc1.64001f,mp4a.40.2",AUDIO="group_A1"
+https://ikomg3.s.llnwi.net/test123/stream_7.m3u8
